@@ -1,0 +1,1 @@
+# yomitan_hazardmap
